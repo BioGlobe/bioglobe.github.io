@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "So, what is a neural network?"
+title: "표적발굴 회사가 빅파마의 러브콜을 한번에 받는 법"
 date: 2021-04-02
 img: posts/20210402/post7-header.webp
 tags: [neural networks, machine learning, artificial intelligence]
@@ -10,6 +10,11 @@ category: theory
 author: Armando Maynez
 description: "ELI5: what is a neural network."
 ---
+이번에 Verge가 알렉시온과 업프론트만 $42M(약 550억)에 달하는 계약을 체결하는데 성공했다.
+릴리와 맺은 ALS 빅딜이 이제 2년인데, 추가로 러브콜이 들어온 것.
+
+빅파마들은 이 회사의 어떤점이 매력적이기에 굳이 협업을 선택하는걸까?
+
 The omnipresence of technology nowadays has made it commonplace to read news about AI, just a quick glance at today's headlines, and I get:
 - [This Powerful AI Technique Led to Clashes at Google and Fierce Debate in Tech.](https://www.morningbrew.com/emerging-tech/stories/2021/03/29/one-biggest-advancements-ai-also-sparked-fierce-debate-heres?utm_source=morning_brew)
 - [How A.I.-powered companies dodged the worst damage from COVID](https://fortune.com/2021/04/02/ai-forecasting-supply-chain-factories-caterpillar-agco/)
